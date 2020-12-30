@@ -1,0 +1,9 @@
+name: FireworkJoin
+main: me.stevetech.fireworkjoin.FireworkJoin
+version: 0.2
+description: Shoots fireworks above joining players
+author: Steve-Tech
+permissions:
+  FireworkJoin:
+    description: Shoots fireworks on join
+    default: true
